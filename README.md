@@ -1,6 +1,22 @@
 
 # TECHNICAL REPORT ON CARBONATED DRINKS SALES PERFORMANCE IN THE UNITED STATES BETWEEN 2022 THROUGH 2023
 
+## Table of Content
+
+- [Introduction](introduction)
+- [Objective of Project](objective-of-project)
+- [Problem Being Addressed](problem-being-addressed)
+- [Key Datasets and Methodologies](key-datasets-and-methodology)
+- [Story of Data](story-of-data)
+- [Data Splitting and Preprocessing](data-splitting-and-preprocessing)
+- [Pre- Analysis](pre-analysis)
+- [In Analysis Observations](inanalysis-observation)
+- [Post-Analysis and Insights](post-analysis-and-insights)
+- [Dashboard and Charts](dashboard-and-charts)
+- [Recommendations and Observations](recommendations-and-observations)
+- [Final Summary of Key Business Improvements](final-summary-of-key-business-improvements)
+- [Conclusion](conclusion)
+- [Future Research Directions](future-research-directions)
 ## Introduction
 
 Making data-driven decisions in the highly competitive beverage industry of today requires an awareness of market dynamics, profitability, and sales success. The sales and operational data from several beverage brands and retailers in the USA, are thoroughly analysed in this technical research, which offers insightful information on regional market trends, retailer performance, product profitability, and sales distribution.
@@ -182,7 +198,7 @@ Investigate whether West Soda has better pricing, distribution, or brand loyalty
 
 •  Amazon ($1.28M) performs better than Walmart ($920K) in total sales, suggesting a stronger online presence is needed.
 
-## Recommendations
+### Recommendations
 
 •	Prioritize investments in the West and Northeast to sustain and grow market dominance.
 
